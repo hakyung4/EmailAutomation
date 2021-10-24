@@ -17,36 +17,34 @@ msg.add_alternative("""\
 <html>
 <body>
     <h3><b>안녕하세요!</b></h3>
-    <p>This is Peter Yun, this year's ESL 1 teacher. I would appreiciate it if all students brought the following items to school:</p>
+    <p>This is Peter Yun, this year's ESL 1 teacher. Since this week is halloween week, students are welcome to bring or put on whatever they want to wear; however, I highly encourage everyone to bring their own jacket in case we go outside for activities. I would appreiciate it if all students brought the following items to school:</p>
     <ul>
         <li>Pencils</li>
         <li>Eraser</li>
-        <li>Journal</li>
         <li>Water bottle</li>
     </ul>
-    <p>This Saturday, students will learn </p>
+    <p>This Saturday, students will learn Point of view in stories and practice identifying it.</p>
     <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
     <ol>
-        <li>10:30-11:20-> <b>Cause</b></li>
+        <li>10:30-11:20-> <b>Point of view</b></li>
         <ol>
-            <li>Intro</li>
-            <li>Intro</li>
+            <li>Point of view</li>
+            <li>Pronouns & Point of View</li>
         </ol>
-        <li>11:20-12:10-> <b>Effect</b></li>
+        <li>11:20-12:10-> <b>Exercise</b></li>
         <ol>
-            <li>Intro</li>
-            <li>Intro</li>
+            <li>Point of view in sentences</li>
+            <li>Practicing point of view</li>
         </ol>
         <li>12:10-12:30-> <b>Snack</b></li>
         <ol>
-            <li>Leomonade</li>
-            <li>Pizza</li>
-            <li>Chicken</li>
+            <li>Ham & Cheese croissant sandwhich</li>
+            <li>Orange juice</li>
         </ol>
         <li>12:30-1:30-> <b>Collaborative activities</b></li>
         <ol>
-            <li>Hide & Seek</li>
-            <li>Dodgeball</li>
+            <li>Making Dalgona</li>
+            <li>Making Ddakji</li>
         </ol>
     </ol>
     <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
