@@ -1,4 +1,4 @@
-#This is the one that gets sent to parents.
+#This file is for getting my email checked before I send it out to parents.
 import os
 import smtplib
 from email.message import EmailMessage
@@ -6,7 +6,8 @@ from email.message import EmailMessage
 EMAIL_ADDR = os.environ.get('EMAIL_ADDR')
 EMAIL_PASS = os.environ.get('EMAIL_PASS')
 
-contacts = ['klskoreanlanguage@gmail.com', 'angtal82@gmail.com', 'rtxcorp@nate.com', '7942ar@gmail.com', 'miracle00827@gmail.com']
+contacts = ['hakyung4@illinois.edu']
+# contacts = ['klskoreanlanguage@gmail.com']
 
 msg = EmailMessage()
 msg['Subject'] = 'You'
@@ -69,4 +70,3 @@ with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
 
     
     smtp.send_message(msg)
-    
