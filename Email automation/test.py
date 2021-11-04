@@ -6,11 +6,10 @@ from email.message import EmailMessage
 EMAIL_ADDR = os.environ.get('EMAIL_ADDR')
 EMAIL_PASS = os.environ.get('EMAIL_PASS')
 
-#contacts = ['hakyung4@illinois.edu']
 contacts = ['klskoreanlanguage@gmail.com']
 
 msg = EmailMessage()
-msg['Subject'] = '10/30 Saturday Class'
+msg['Subject'] = '11/06 Saturday Class'
 msg['From'] = EMAIL_ADDR
 msg['To'] = ', '.join(contacts)
 
@@ -45,8 +44,8 @@ msg.add_alternative("""\
         </ol>
         <li>12:30-1:30-> <b>Collaborative activities</b></li>
         <ol>
-            <li>Making Dalgona</li>
-            <li>Making Ddakji</li>
+            <li>Volleyball with balloons</li>
+            <li>Pictonary</li>
         </ol>
     </ol>
     <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
