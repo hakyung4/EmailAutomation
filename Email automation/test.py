@@ -9,7 +9,7 @@ EMAIL_PASS = os.environ.get('EMAIL_PASS')
 contacts = ['klskoreanlanguage@gmail.com']
 
 msg = EmailMessage()
-msg['Subject'] = '11/06 Saturday Class'
+msg['Subject'] = '11/13 Saturday Class'
 msg['From'] = EMAIL_ADDR
 msg['To'] = ', '.join(contacts)
 
@@ -18,24 +18,23 @@ msg.add_alternative("""\
 <html>
 <body>
     <h3><b>안녕하세요!</b></h3>
-    <p>This is Peter Yun, this year's ESL 1 teacher. Last Saturday, students learned about Point of View and how to identify them in stories. Students also had fun playing with Ddakji they made and Dalgona. I would appreiciate it if all students brought the following items to school:</p>
+    <p>This is Peter Yun, this year's ESL 1 teacher. Last Saturday, students learned about fictional texts and how to distinguish them from facts and nonfictions. I would appreiciate it if all students brought the following items to school:</p>
     <ul>
         <li>Pencils</li>
         <li>Eraser</li>
         <li>Water bottle</li>
     </ul>
-    <p>This Saturday, students will expand their knowledge of genres and venture out into fictional texts.</p>
+    <p>This Saturday, students will demonstrate their knowledge they have gained through a final exam. Subsequently, they will learn the fundamentals of non-fictions.</p>
     <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
     <ol>
-        <li>10:30-11:20-> <b>Distinguishing Fiction from other genres</b></li>
+        <li>10:30-11:20-> <b>Taking a final exam</b></li>
         <ol>
-            <li>Fact or Fiction</li>
-            <li>Fiction or nonfiction?</li>
+            <li>Final exam</li>
         </ol>
-        <li>11:20-12:10-> <b>Exercise</b></li>
+        <li>11:20-12:10-> <b>Non-fictions</b></li>
         <ol>
-            <li>Vocabulary Practice: Fiction Genre</li>
-            <li>Simple Fiction Summary</li>
+            <li>Vocabulary Practice: Non-fiction Genre</li>
+            <li>Soccer: Nonfiction Text</li>
         </ol>
         <li>12:10-12:30-> <b>Snack</b></li>
         <ol>
