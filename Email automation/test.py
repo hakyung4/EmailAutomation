@@ -38,8 +38,8 @@ msg.add_alternative("""\
         </ol>
         <li>12:10-12:30-> <b>Snack</b></li>
         <ol>
-            <li>dunkin donuts</li>
-            <li>Milk</li>
+            <li>Deep dish pizza</li>
+            <li>Orange Juice</li>
         </ol>
         <li>12:30-1:30-> <b>Collaborative activities</b></li>
         <ol>
