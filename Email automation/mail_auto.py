@@ -18,33 +18,24 @@ msg.add_alternative("""\
 <html>
 <body>
     <h3><b>안녕하세요!</b></h3>
-    <p>This is Peter Yun, this year's ESL 1 teacher. Last Saturday, students learned about fictional texts and how to distinguish them from facts and nonfictions. I would appreiciate it if all students brought the following items to school:</p>
-    <ul>
-        <li>Pencils</li>
-        <li>Eraser</li>
-        <li>Water bottle</li>
-    </ul>
-    <p>This Saturday, students will demonstrate their knowledge they have gained through a final exam. Subsequently, they will learn the fundamentals of non-fictions.</p>
+    <p>This is Peter Yun, this year's ESL 1 teacher. As this Saturday will be the last day of my teaching, I would personally like to thank you all for giving me an awesome opportunity to teach your children. As an ESL teacher, I remember the time when I was not fluent in English; I could barely understand or talk in English. However, I tried to listen to my friends and mock the phrases they say or accent they make, ultimately helping me become more than fluent in English. My advice for learning English, or any other foreign language is confidence. Keep encouraging your children to speak English and not to lose their confidence! I believe they will feel more than comfortable communicating in English one day!
+    Other than this massmail, there is an email sent to each parents with students' certificates and feedbacks from me. Again, it was my pleasure to get to teach phenomenal students this year!</p> 
+    <p>This Saturday, we are going to watch the first series of Harry Potter, Harry Potter and the Sorcerer's Stone</p>
     <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
     <ol>
-        <li>10:30-11:20-> <b>Taking a final exam</b></li>
+        <li>10:30-11:20-> <b>Watching the movie</b></li>
         <ol>
-            <li>Final exam</li>
-        </ol>
-        <li>11:20-12:10-> <b>Non-fictions</b></li>
-        <ol>
-            <li>Vocabulary Practice: Non-fiction Genre</li>
-            <li>Soccer: Nonfiction Text</li>
+            <li>Harry Potter and the Sorcerer's Stone</li>
         </ol>
         <li>12:10-12:30-> <b>Snack</b></li>
         <ol>
-            <li>Deep dish pizza</li>
+            <li>Chicken Nuggets</li>
             <li>Orange Juice</li>
         </ol>
         <li>12:30-1:30-> <b>Collaborative activities</b></li>
         <ol>
-            <li>Volleyball with balloons</li>
-            <li>Pictonary</li>
+            <li>Dodgeball</li>
+            <li>Mini games</li>
         </ol>
     </ol>
     <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
