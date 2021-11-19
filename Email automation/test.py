@@ -6,8 +6,8 @@ from email.message import EmailMessage
 EMAIL_ADDR = os.environ.get('EMAIL_ADDR')
 EMAIL_PASS = os.environ.get('EMAIL_PASS')
 
-# contacts = ['klskoreanlanguage@gmail.com']
-contacts = ['hamiram9@gmail.com']
+contacts = ['klskoreanlanguage@gmail.com']
+# contacts = ['hamiram9@gmail.com']
 
 msg = EmailMessage()
 msg['Subject'] = '11/13 Saturday Class'

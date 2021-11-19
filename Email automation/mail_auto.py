@@ -9,7 +9,7 @@ EMAIL_PASS = os.environ.get('EMAIL_PASS')
 contacts = ['angtal82@gmail.com', 'rtxcorp@nate.com', '7942ar@gmail.com', 'miracle00827@gmail.com']
 
 msg = EmailMessage()
-msg['Subject'] = '11/13 Saturday Class'
+msg['Subject'] = '11/20 Saturday Class'
 msg['From'] = EMAIL_ADDR
 msg['To'] = ', '.join(contacts)
 
